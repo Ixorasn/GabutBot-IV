@@ -16,15 +16,15 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'woaibeijingtiananmen',
+	'https://zenzapis.xyz': '93f85b86a969',
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
+global.owner = ['𝙸𝚡𝚘𝚛𝚊']
+global.ownernomer = "6281228792751"
+global.premium = ['6281228792751']
 global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.author = '𝙸𝚡𝚘𝚛𝚊V2'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Sabar Mekk...',
     error: 'Error!',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
     errmor: 'Error Kesalahan Sistem',
@@ -60,15 +60,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/yangjunming12'
-global.myyt = 'Yt kamu'
-global.myytv = 'Yt video kamu'
-global.mygc = "Grup wa kamu"
+global.mygit = '-'
+global.myyt = 'kingixora3447'
+global.myytv = '-'
+global.mygc = "-"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'GABUT-BOT'
-global.akulaku = 'Bot by YangJunMing'
-global.ytname = 'Nama yt kamu' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = '𝙸𝚡𝚘𝚛𝚊V2'
+global.akulaku = 'Bot by Ixoraa'
+global.ytname = 'kingixora3447' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
